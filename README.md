@@ -1,2 +1,2 @@
 # Software-System-Design-and-Analysis
-This repository everything I have learnt and currentlty learning about Software design and analysis
+This repository contains major assignments that I have learnt and currentlty learning about Software design and analysis
